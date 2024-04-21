@@ -1,6 +1,6 @@
 {
   "productName": "tello",
-  "version": "0.0.0",
+  "version": "../package.json",
   "identifier": "com.tauri.dev",
   "build": {
     "beforeDevCommand": "pnpm dev",
