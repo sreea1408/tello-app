@@ -10,7 +10,7 @@
   },
   "app": {"windows": [
       {
-        "title": "tello-app",
+        "title": "Tello",
         "width": 800,
         "height": 600
       }
