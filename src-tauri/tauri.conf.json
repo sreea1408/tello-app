@@ -1,5 +1,5 @@
 {
-  "productName": "tello-app",
+  "productName": "tello",
   "version": "0.0.0",
   "identifier": "com.tauri.dev",
   "build": {
